@@ -1,0 +1,15 @@
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.csproj.AssemblyReference.cache
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.AssemblyInfoInputs.cache
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.AssemblyInfo.cs
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.csproj.CoreCompileInputs.cache
+D:\Train\FuckingNumeroPrimo\bin\Debug\net6.0\FuckingNumeroPrimo.exe
+D:\Train\FuckingNumeroPrimo\bin\Debug\net6.0\FuckingNumeroPrimo.deps.json
+D:\Train\FuckingNumeroPrimo\bin\Debug\net6.0\FuckingNumeroPrimo.runtimeconfig.json
+D:\Train\FuckingNumeroPrimo\bin\Debug\net6.0\FuckingNumeroPrimo.dll
+D:\Train\FuckingNumeroPrimo\bin\Debug\net6.0\FuckingNumeroPrimo.pdb
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.dll
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\refint\FuckingNumeroPrimo.dll
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.pdb
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\FuckingNumeroPrimo.genruntimeconfig.cache
+D:\Train\FuckingNumeroPrimo\obj\Debug\net6.0\ref\FuckingNumeroPrimo.dll
